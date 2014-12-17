@@ -1,7 +1,7 @@
 name: White Paper
 markdown: redcarpet
 pygments: true
-url: http://norliu.github.io/
+url: http://norliu.github.io/norah-blog
 paginate: 8
 description:     Norah test blog
 intro: Testing blog on the White Paper theme. White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
