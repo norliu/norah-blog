@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Study of github pages"
+date: 2014-12-16
+comments: true
+categories:
+---
+
 ### What are github pages
 GitHub Pages are public webpages **freely** hosted and **easily** published through GitHub site.
 See [Github pages intro](https://help.github.com/articles/what-are-github-pages/).
